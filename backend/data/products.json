@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "1",
+    "name": "Sona Ring",
+    "price": 45000,
+    "category": "Rings",
+    "image": "💍",
+    "description": "Pure 24k gold ring with diamond",
+    "stock": 10,
+    "rating": 4.8
+  },
+  {
+    "_id": "2",
+    "name": "Heera Haar",
+    "price": 125000,
+    "category": "Necklaces",
+    "image": "📿",
+    "description": "Premium diamond necklace",
+    "stock": 5,
+    "rating": 4.9
+  },
+  {
+    "_id": "3",
+    "name": "Moti Bali",
+    "price": 28000,
+    "category": "Earrings",
+    "image": "✨",
+    "description": "Natural pearl earrings",
+    "stock": 15,
+    "rating": 4.7
+  },
+  {
+    "_id": "4",
+    "name": "Chandi Kangan",
+    "price": 15000,
+    "category": "Bangles",
+    "image": "⭕",
+    "description": "Pure silver bangles set of 6",
+    "stock": 20,
+    "rating": 4.6
+  },
+  {
+    "_id": "5",
+    "name": "Ruby Pendant",
+    "price": 67000,
+    "category": "Pendants",
+    "image": "🔴",
+    "description": "Natural ruby stone pendant",
+    "stock": 8,
+    "rating": 4.8
+  },
+  {
+    "_id": "6",
+    "name": "Emerald Set",
+    "price": 95000,
+    "category": "Sets",
+    "image": "💚",
+    "description": "Full emerald jewelry set",
+    "stock": 3,
+    "rating": 5.0
+  },
+  {
+    "_id": "7",
+    "name": "Gold Bracelet",
+    "price": 55000,
+    "category": "Bracelets",
+    "image": "📯",
+    "description": "18k gold bracelet with gems",
+    "stock": 12,
+    "rating": 4.7
+  },
+  {
+    "_id": "8",
+    "name": "Sapphire Ring",
+    "price": 78000,
+    "category": "Rings",
+    "image": "💙",
+    "description": "Blue sapphire gold ring",
+    "stock": 6,
+    "rating": 4.9
+  }
+]
